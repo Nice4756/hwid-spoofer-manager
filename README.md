@@ -45,3 +45,16 @@ Windows10 - Windows11全系列64位操作系统。
 ## 程序协议：
 如果需要正常使用程序，需要同意首次运行弹出的用户协议与免责声明。
 请遵守当前用户所属国家和地区的相关法律法规，严禁用于任何违法用途，严禁用于侵害第三方软件(程序)利益的各种违法行为。
+
+## 视频教程：
+- [程序使用教程](https://easylink.cc/ecc6rn)
+- [修改C盘分区教程](https://easylink.cc/7njvyr)
+- [禁用SPD内存教程](https://easylink.cc/1mjywm)
+- [设置自启动教程](https://easylink.cc/mitb6r)
+- [修改NVIDIA显卡UUID教程](https://easylink.cc/aqhggh)
+
+## 下载地址
+[蓝奏云 2025-07-27](https://wwqp.lanzouw.com/ighuZ31xoy1c)
+
+## 问题反馈
+[telegram](https://t.me/indigosable)
