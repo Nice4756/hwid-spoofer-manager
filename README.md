@@ -35,6 +35,7 @@
 - [2025.07.10] 第八次更新，支持修改NVIDIA显卡的UUID，兼容性有待测试，当前NVIDIA版本576.88测试正常。
 - [2025.07.23] 第九次更新，注册表过滤一些问题修复，支持从文件中导入配置。
 - [2025.07.27] 第十次更新，优化了部分驱动算法。
+- [2025.12.07] 第十一次更新，无法登陆问题修复。
 
 ## 登录密钥：
 **20230519-0051-T70O-23H8-HHWSILX0TXFA**
@@ -54,7 +55,7 @@ Windows10 - Windows11全系列64位操作系统。
 - [修改NVIDIA显卡UUID教程](https://easylink.cc/aqhggh)
 
 ## 下载地址
-[蓝奏云 2025-07-27](https://wwqp.lanzouw.com/ighuZ31xoy1c)
+[蓝奏云 2025-12-07](https://wwbop.lanzouw.com/i1ym33d131yb)
 
 ## 问题反馈
 [telegram](https://t.me/indigosable)
